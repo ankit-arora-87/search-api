@@ -21,5 +21,7 @@
         - /api/v1/products/search?query=apple&page=0&size=1&sortBy=name
 
 
+### Designed database reference ERD
+    - ERD_eShoppingCentre.pdf (you can this ERD in root directory)
 
 
